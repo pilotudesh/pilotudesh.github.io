@@ -104,14 +104,14 @@ header.sticky{
 	z-index:20;
 	padding:0 7px;
 	border-radius:4px;
-/*	background:#fff
-*/}
+	background:#fff
+}
 #mobile-menu-close{
 	display:none;
 	text-align:right;
 	width:100%;
-/*	background:#fff;
-*/	font-size:1.5em;
+	background:#fff;
+	font-size:1.5em;
 	padding-right:15px;
 	padding-top:10px;
 	cursor:pointer;
