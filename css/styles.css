@@ -424,6 +424,7 @@ footer{
 	padding:0 0 0 15px
 }
 #projects{
+	background: #f2f2f5;
 	padding:50px 15px;
 	border-bottom:1px solid #dcd9d9;
 	text-align:center
@@ -437,7 +438,6 @@ footer{
 	max-width:900px;
 	margin:0 auto 30px auto;
 	overflow:hidden;
-	background:#f2f2f5;
 	border-radius:4px
 }
 .project-image{
