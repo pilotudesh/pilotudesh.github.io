@@ -437,8 +437,8 @@ footer{
 	max-width:900px;
 	margin:0 auto 30px auto;
 	overflow:hidden;
-/*	background:#fff;
-*/	border-radius:4px
+	background:#f2f2f5;
+	border-radius:4px
 }
 .project-image{
 	float:left
